@@ -1,0 +1,71 @@
+model_name = sentence-transformers/all-MiniLM-L6-v2
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4680
+      Recall@10 0.4680
+Top‑10 accuracy 0.9800
+         MRR@10 0.7965
+        NDCG@10 0.5165
+
+model_name = sentence-transformers/all-mpnet-base-v2
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4700
+      Recall@10 0.4700
+Top‑10 accuracy 0.9600
+         MRR@10 0.7642
+        NDCG@10 0.5273
+
+model_name = sentence-transformers/multi-qa-MiniLM-L6-cos-v1
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4200
+      Recall@10 0.4200
+Top‑10 accuracy 0.9800
+         MRR@10 0.7349
+        NDCG@10 0.4696
+
+model_name = sentence-transformers/multi-qa-mpnet-base-dot-v1
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4060
+      Recall@10 0.4060
+Top‑10 accuracy 0.9600
+         MRR@10 0.7807
+        NDCG@10 0.4617
+
+model_name = sentence-transformers/msmarco-distilbert-base-tas-b
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4040
+      Recall@10 0.4040
+Top‑10 accuracy 1.0000
+         MRR@10 0.6924
+        NDCG@10 0.4398
+
+model_name = sentence-transformers/paraphrase-mpnet-base-v2
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4460
+      Recall@10 0.4460
+Top‑10 accuracy 1.0000
+         MRR@10 0.6987
+        NDCG@10 0.4793
+
+model_name = sentence-transformers/msmarco-distilbert-base-v4
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.4200
+      Recall@10 0.4200
+Top‑10 accuracy 1.0000
+         MRR@10 0.7461
+        NDCG@10 0.4585
+
+model_name = cross-encoder/ms-marco-MiniLM-L6-v2
+===  Retrieval quality (average over 50 resumes)  ===
+         Metric  Value
+   Precision@10 0.3620
+      Recall@10 0.3620
+Top‑10 accuracy 0.9400
+         MRR@10 0.5994
+        NDCG@10 0.3840
